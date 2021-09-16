@@ -22,7 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alankemboi&show_icons=true&locale=en&layout=compact" alt="alankemboi" /></p>
 
-<--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankemboi&show_icons=true&locale=en" alt="alankemboi" /></p>-->
 
 
 <h3 align="left">Support:</h3>
