@@ -4,7 +4,7 @@
 
 [![Linkedin: Alan Kemboi](https://img.shields.io/badge/-alankemboi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-kemboi-c/)](https://www.linkedin.com/in/alan-kemboi-c/)<br>
 [![GitHub alankemboi](https://img.shields.io/github/followers/alankemboi?label=follow&style=social)](https://github.com/alankemboi)<br>
-Github page: [https://kemboi.dev/](https://kemboi.dev/)
+Github page: [https://kemboi.app/](https://kemboi.app/)
 
 
 
